@@ -1,0 +1,34 @@
+{
+    "titulo": "Minecraft",
+    "genero": "Sandbox",
+    "desenvolvedor": "Mojang",
+    "plataforma": "PC"
+}
+
+{
+    "titulo": "GTA V",
+    "genero": "Ação",
+    "desenvolvedor": "Rockstar",
+    "plataforma": "PC"
+}
+
+{
+    "titulo": "FIFA 24",
+    "genero": "Esporte",
+    "desenvolvedor": "EA Sports",
+    "plataforma": "PlayStation"
+}
+
+{
+    "titulo": "God of War",
+    "genero": "Aventura",
+    "desenvolvedor": "Santa Monica",
+    "plataforma": "PlayStation"
+}
+
+{
+    "titulo": "Valorant",
+    "genero": "FPS",
+    "desenvolvedor": "Riot Games",
+    "plataforma": "PC"
+}

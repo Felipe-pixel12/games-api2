@@ -1,1 +1,1 @@
-# games-api2
+# GAMES-API
